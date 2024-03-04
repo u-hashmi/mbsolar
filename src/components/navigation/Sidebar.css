@@ -1,0 +1,25 @@
+.appHeader {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px 20px;
+    height: 60px;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 0px;
+}
+
+.sectionHeader {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px 20px;
+    margin-top: 10px;
+    height: 40px;
+    font-weight: 600;
+    font-size: medium;
+    line-height: 0px;
+    text-transform: uppercase;
+}
